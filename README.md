@@ -1,3 +1,5 @@
 # CS-437 Lab 2 Code
 
-This Repository contains the code for lad 2 of CS-437
+This Repository contains the code for lab 2 of CS-437
+Each directory contains the server and the app, run the server on the raspberry pi and the app on the pc for your choice.
+Electron is required for the wifi app.
